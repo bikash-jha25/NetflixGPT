@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import LogIn from "./LogIn";
+import Login from "./Login";
 import Browse from "./Browse";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import { useDispatch } from "react-redux";
@@ -9,7 +9,7 @@ import MyList from "./MyList";
 const appRouter = createBrowserRouter([
   {
     path: "/",
-    element: <LogIn />,
+    element: <Login />,
   },
   {
     path: "/browse",
