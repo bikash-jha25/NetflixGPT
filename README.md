@@ -15,6 +15,10 @@
 [![Firebase](https://img.shields.io/badge/Firebase-12-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Gemini](https://img.shields.io/badge/Gemini_AI-2.5_Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
 
+<br/>
+
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Site-E50914?style=for-the-badge&logoColor=white)](https://netflix-gpt-phi-mocha.vercel.app/)
+
 </div>
 
 ---
