@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="src/assets/netflix-logo.png" alt="Netflix GPT Logo" width="200"/>
+<img src="src/assets/banner.png" alt="Netflix GPT Banner" width="100%"/>
+
+<br/>
 
 # 🎬 Netflix GPT
 
