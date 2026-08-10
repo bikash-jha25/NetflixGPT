@@ -17,7 +17,7 @@
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Site-E50914?style=for-the-badge&logoColor=white)](https://netflix-gpt-phi-mocha.vercel.app/)
+### 🚀 Live Demo : [https://netflix-gpt-phi-mocha.vercel.app/](https://netflix-gpt-phi-mocha.vercel.app/)
 
 </div>
 
